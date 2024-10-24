@@ -1,24 +1,23 @@
 ﻿/*
  * Created by SharpDevelop.
- * User: CC2-PC13
+ * User: CC2-PC14
  * Date: 24/10/2024
- * Time: 03:39 p. m.
+ * Time: 07:48 a. m.
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
-using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 
 namespace pruebitas
 {
 	/// <summary>
-	/// Description of MainForm.
+	/// Description of Humanidades.
 	/// </summary>
-	public partial class MainForm : Form
+	public partial class Humanidades : Form
 	{
-		public MainForm()
+		public Humanidades()
 		{
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.
@@ -30,4 +29,4 @@ namespace pruebitas
 			//
 		}
 	}
-} 
+}
